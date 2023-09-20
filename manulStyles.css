@@ -1,0 +1,77 @@
+/*navigatiebalk*/
+nav li{
+    background-color: #40E0D0    ;
+    margin-left: 7px;
+    margin-right: 7px;
+    padding: 7px;  
+    border-radius: 5px;
+    border: 2px solid black;
+    display:inline;
+    text-align: center;
+  }
+  
+  nav a{
+      color: white;
+      text-decoration: none;
+      text-align: center;
+  }
+  
+  nav li:hover{
+      background-color: #1605ff;
+  }
+  
+  nav a:hover{
+      color: #06ff02;
+      font-weight: bold;
+  }
+
+  .navigatiebalk{
+    text-align: center;
+  }
+
+  /*titels*/
+  h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+  }
+
+  h3{
+    color: rgb(211, 81, 33);
+    font-size: 50px;
+  }
+
+  /*afbeeldingen en video's*/
+  .thuisgebied{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .dierentuin{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .videoDierentuin{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+/*achtergrond*/
+  body{
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, black,white, rgb(103, 103, 102) 100%);
+  } 
+/*tekst*/
+  p{
+    color: rgb(228, 84, 27);
+  }
+
+  .titel{
+    text-align: center;
+  }
+  
